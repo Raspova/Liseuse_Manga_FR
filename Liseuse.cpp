@@ -209,9 +209,9 @@ void Liseuse::setTextures()
 int main(int argc, char *argv[])
 {
   if (argc != 5) {
-    std::cout << "./liseuse MangaName Tome Chapter UploaderNumber\n\
+    std::cout << "./liseuse MangaName Page Chapter UploaderNumber\n\
       ./liseuse Berserk  1 0 -1\n\
-      ";
+      ./liseuse OPM 1 0 2\n";
   }
   Liseuse lis(makeUrl(std::atoi(argv[4]), argv[1], std::atoi(argv[2]), std::atoi(argv[3])));
 
