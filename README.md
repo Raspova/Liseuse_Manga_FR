@@ -1,5 +1,5 @@
 ![Banner](asset/banner.jpeg)
-#Intro
+# Intro
 Je voulais lire Berserk.
 Sushi-scan est les meilleur site de scan "gratuit". 
 
@@ -42,14 +42,14 @@ OR
 
 #### Control
 
-#####Mode normal
+##### Mode normal
 1. Click droit : page suivante
 1. Click milieu : precedente
 1. Molette : up - down de la page
 1. Molette + crl : zoom
 1. Click gauche : mode libre
 
-#####Mode libre
+##### Mode libre
 1. La page suis les mouvment de sourit
 1. Molette : zoom
 1. Click gauche : mode normal
